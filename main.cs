@@ -7,7 +7,7 @@ namespace Main_Program
 {
     public partial class Form1 : Form
     {
-        const string exercise_json_path = "C:\\Users\\ipepd\\source\\repos\\Main Program\\Main Program\\Resources\\exercises.json";
+        const string exercise_json_path = "" //Blurred for privacy
         public Form1()
         {
             InitializeComponent();
