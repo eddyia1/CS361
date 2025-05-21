@@ -3,6 +3,7 @@
 This is a simple microservice to return the average of an array of numerical data. It is written entirely in C++ and is only one file.
 
 **Note 1**: This program relies on functions that are available starting with C++11. Compiling this program requires a compiler with C++11 features enabled.
+
 **Note 2**: This program will require you to input your own directories into the cpp file. The only place this is necessary is in the main function with the request and response path variables.
 
 ## How to Request Data
