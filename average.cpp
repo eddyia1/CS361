@@ -58,8 +58,9 @@ void write_average(string responsepath, float avg)
 
 int main()
 {
-    const char* requestpath = "C:\\Users\\ipepd\\Downloads\\Main_Program\\Main_Program\\Main_Program\\database\\request.txt";
-    const char* responsepath = "C:\\Users\\ipepd\\Downloads\\Main_Program\\Main_Program\\Main_Program\\database\\response.txt";
+    //Replace with the paths you are using for your main program
+    const char* requestpath = "";
+    const char* responsepath = "";
 
     float avg;
 
